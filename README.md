@@ -8,8 +8,8 @@
 
 I'm Sara, a Computer Science graduate with a passion for exploring new areas of life.
 
-- 🌍 Curious world explorer and technology enthusiast
-- 🚀 Always eager to learn new technologies and methodologies
+- 🌍 Curious world explorer and enthusiast
+- 🚀 Always eager to learn new algorithms and technologies
 - 📖 Master in Computer Science and Informatics
 - 🎓 Faculty of Computer and Information Science, University of Ljubljana
 - 💼 Currently working on web applications and mobile solutions
@@ -61,13 +61,6 @@ I'm Sara, a Computer Science graduate with a passion for exploring new areas of 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saramihalic&show_icons=true&theme=radical" alt="Sara's GitHub stats" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saramihalic&theme=radical" alt="Sara's GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saramihalic&layout=compact&theme=radical" alt="Sara's Top Languages" />
 </div>
 
 ---
@@ -84,8 +77,8 @@ I'm Sara, a Computer Science graduate with a passion for exploring new areas of 
   </a>
 </div>
 
----
+<br>
 
 <div align="center">
-  <p>"Don't give up before you even started."</p>
+  <b>"Don't give up before you even started."</b>
 </div>
