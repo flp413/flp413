@@ -10,7 +10,7 @@ I'm Sara, a Computer Science graduate with a passion for exploring new areas of 
 
 - 🌍 Curious world explorer and enthusiast
 - 🚀 Always eager to learn new algorithms and technologies
-- 📖 Master in Computer Science and Informatics
+- 📖 Pursuing Master's degree in Computer Science and Informatics
 - 🎓 Faculty of Computer and Information Science, University of Ljubljana
 - 💼 Currently working on web applications and mobile solutions
 
