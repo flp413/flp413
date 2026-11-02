@@ -1,22 +1,16 @@
 <h1 align="center">Sara Mihalič</h1>
 
----
+### 👋 About Me
 
-## 👋 About Me
-
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/saramihalic/saramihalic/main/assets/coding-animation.gif">
-
-I'm Sara, a Computer Science graduate with a passion for exploring new areas of life.
+I'm Sara, a Computer Science graduate interested in machine learning, security and full stack development.
 
 - 🌍 Curious world explorer and enthusiast
 - 🚀 Always eager to learn new algorithms and technologies
 - 📖 Pursuing Master's degree in Computer Science and Informatics
 - 🎓 Faculty of Computer and Information Science, University of Ljubljana
-- 💼 Currently working on web applications and mobile solutions
+- 💼 Currently working on web applications and exploring the world of cybersecurity
 
----
-
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
 <details open>
 <summary><b>Frontend Development</b></summary>
@@ -41,12 +35,34 @@ I'm Sara, a Computer Science graduate with a passion for exploring new areas of 
 </div>
 </details>
 
+<details>
+<summary><b>Mobile Development</b></summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+</div>
+</details>
+
+<details>
+<summary><b>Data Science & Signal Processing</b></summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
+</div>
+</details>
 
 <details>
 <summary><b>Database Technologies & Other Tools</b></summary>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="Latex">
@@ -54,18 +70,7 @@ I'm Sara, a Computer Science graduate with a passion for exploring new areas of 
 </div>
 </details>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saramihalic&show_icons=true&theme=radical" alt="Sara's GitHub stats" />
-</div>
-</div>
-
----
-
-## 📫 Contacts
+### 📫 Contacts
 
 <div align="center">
   <p>I'm always open to interesting conversations and opportunities. Especially in person :) </p>
@@ -80,5 +85,5 @@ I'm Sara, a Computer Science graduate with a passion for exploring new areas of 
 <br>
 
 <div align="center">
-  <b>"Don't give up before you even started."</b>
+  <b>"Don't give up before you've even started."</b>
 </div>
